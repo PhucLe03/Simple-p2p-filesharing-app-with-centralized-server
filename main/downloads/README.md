@@ -1,0 +1,1 @@
+Các file đã download từ các peers sẽ được lưu trữ ở đây.
