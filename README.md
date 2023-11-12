@@ -46,7 +46,7 @@ Khi muốn tải một file nào đó từ client khác, nhập tên file vào k
 
 [Nguyễn Hoàng Khôi Nguyên](https://github.com/DracNguyen)
 
-[Nguyễn Duy](https://github.com/Duy-CS)
+[Nguyễn Duy](https://github.com/duynguyen38)
 
 [Lê Hoàng Phúc](https://github.com/PhucLe03)
 
