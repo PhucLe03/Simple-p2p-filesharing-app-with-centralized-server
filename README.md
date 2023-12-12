@@ -49,14 +49,14 @@ Khi muốn tải một file nào đó từ client khác, nhập tên file vào k
 
 `Note`: App hiện tại chỉ có hỗ trợ tải những file mà các client khác đã publish, nếu file không tìm thấy ở các client khác thì app sẽ bị lỗi; ngoài ra, chức năng "DOWNLOAD" chỉ thực hiện được ở một client/máy, nếu trên một máy nhiều client muốn tải thì sẽ gặp lỗi
 
-## Authors
+## Contributors
 
-[Nguyễn Hoàng Khôi Nguyên](https://github.com/DracNguyen)
-
+App, UI: 
+[Lê Hoàng Phúc](https://github.com/PhucLe03), 
 [Nguyễn Duy](https://github.com/duynguyen38)
 
-[Lê Hoàng Phúc](https://github.com/PhucLe03)
-
+Report:
+[Nguyễn Hoàng Khôi Nguyên](https://github.com/DracNguyen),
 [Đặng Thanh Huy](https://github.com/ThanhHuy1006)
 
 ## Reference
