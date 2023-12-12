@@ -1,5 +1,12 @@
 # Peer-to-peer file-sharing app with centralized server
 
+## Overview
+
+Ứng dụng chia sẻ file peer-to-peer dưới sự quản lý của máy chủ trung tâm
+- Các máy khách (client) kết nối với một máy chủ trung tâm (centralized server)
+- Client gửi yêu cầu download/fetch file đến máy chủ, máy chủ tìm client chia sẻ file, sau đó 2 client sẽ tự kết nối và chia sẻ file cho nhau
+- Vì nhiều client cùng kết nối và các client có thể yêu cầu fetch 1 hoặc nhiều file từ 1 client của tại cùng 1 thời điểm, nên ứng dụng sẽ hỗ trợ đa luồng (multi-thread)
+
 ## User Manual
 
 ### Download hoặc clone source code
@@ -51,3 +58,10 @@ Khi muốn tải một file nào đó từ client khác, nhập tên file vào k
 [Lê Hoàng Phúc](https://github.com/PhucLe03)
 
 [Đặng Thanh Huy](https://github.com/ThanhHuy1006)
+
+## Reference
+
+[adamgillfillan/p2p](https://github.com/adamgillfillan/p2p)
+[Ezi0aaudit0re/P2P-music-sharing](https://github.com/Ezi0aaudit0re/P2P-music-sharing)
+[balag59/Peer-to-Peer-Centralized-Index-System](https://github.com/balag59/Peer-to-Peer-Centralized-Index-System)
+[nikhilroxtomar/Multithreaded-File-Transfer-using-TCP-Socket-in-Python](https://github.com/nikhilroxtomar/Multithreaded-File-Transfer-using-TCP-Socket-in-Python)
