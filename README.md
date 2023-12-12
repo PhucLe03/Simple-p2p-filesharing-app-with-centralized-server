@@ -14,7 +14,7 @@
 git clone https://github.com/PhucLe03/Simple-p2p-filesharing-app-with-centralized-server.git
 ```
 
-### Server
+### Các bước chạy Server
 #### Bước 1: Chạy terminal
 ```c
 cd main
@@ -33,7 +33,7 @@ Sau khi bấm "Client List" và một cửa sổ mới mang tên "CLIENT STATUS"
 
 `Hint`: Địa chỉ IP và cổng theo định dạng "IP:PORT" có thể được copy ở danh sách client
 
-### Client
+### Các bước chạy Client
 #### Bước 1: Chạy terminal
 ```c
 cd main
@@ -62,6 +62,9 @@ Khi muốn tải một file nào đó từ client khác, nhập tên file vào k
 ## Reference
 
 [adamgillfillan/p2p](https://github.com/adamgillfillan/p2p)
+
 [Ezi0aaudit0re/P2P-music-sharing](https://github.com/Ezi0aaudit0re/P2P-music-sharing)
+
 [balag59/Peer-to-Peer-Centralized-Index-System](https://github.com/balag59/Peer-to-Peer-Centralized-Index-System)
+
 [nikhilroxtomar/Multithreaded-File-Transfer-using-TCP-Socket-in-Python](https://github.com/nikhilroxtomar/Multithreaded-File-Transfer-using-TCP-Socket-in-Python)
