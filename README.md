@@ -16,7 +16,7 @@ git clone https://github.com/PhucLe03/Simple-p2p-filesharing-app-with-centralize
 
 ### Các bước chạy Server
 #### Bước 1: Chạy terminal
-```c
+```console
 cd main
 py server.py
 ```
@@ -35,7 +35,7 @@ Sau khi bấm "Client List" và một cửa sổ mới mang tên "CLIENT STATUS"
 
 ### Các bước chạy Client
 #### Bước 1: Chạy terminal
-```c
+```console
 cd main
 py client.py
 ```
