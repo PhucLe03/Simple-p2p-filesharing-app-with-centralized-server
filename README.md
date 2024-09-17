@@ -59,7 +59,7 @@ Report:
 [Nguyễn Hoàng Khôi Nguyên](https://github.com/DracNguyen),
 [Đặng Thanh Huy](https://github.com/ThanhHuy1006)
 
-## Reference
+## References
 
 [adamgillfillan/p2p](https://github.com/adamgillfillan/p2p)
 
